@@ -1,0 +1,6 @@
+{
+  "name": "Aether C++ & OpenGL Game Engine Studio",
+  "description": "Cross-platform C++ & OpenGL 2D/3D game engine development studio with real-time WebGL rendering, GLSL shader pipeline, scene graph inspector, physics simulation, profiling, and multiplayer observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
